@@ -1,4 +1,4 @@
-Asteroids 
+Asteroids
 
-Závěrečný projekt,který jsem vytvořila v rámci kurzu Pyladies. V tomto kurzu je hlavním objektem raketa, která se ovládá pomocí šipek a sestřeluje laserem asteroidy. 
-Tento projekt potřebuje ještě vylepšení a chtěla bych v něm v pozdějším čase přidat další efekty, score apod. a také vytvořit úvodní stranu začátku hry.
+A final project I created as part of the Pyladies course. In this course, the main object is a rocket controlled by arrow keys, shooting down asteroids with lasers.
+This project still needs improvement, and in the future, I would like to add more effects, a scoring system, etc., and also create an introductory screen for the start of the game.
